@@ -8,22 +8,22 @@ In my portfolio, you can find my [projects](https://github.com/vijaykethaa?tab=r
 
 💡 **My Skills**
 
--Data preparation, quality assurance, and analysis
+- Data preparation, quality assurance, and analysis
 
--Dashboard development and reporting
+- Dashboard development and reporting
 
--Exploratory data analysis
+- Exploratory data analysis
 
 🛠️ **My Tools**
 
--Databases: SQL (MySQL, PostgreSQL)
+- Databases: SQL (MySQL, PostgreSQL)
 
--Visualisation: Power BI
+- Visualisation: Power BI
 
--Excel
+- Excel
 
--Python: Pandas
+- Python: Pandas
 
 🙌🏻 **Connect with Me**
 
--[Linkedin](https://www.linkedin.com/in/vijaya-durga-rao-ketha-737792284/)
+- [Linkedin](https://www.linkedin.com/in/vijaya-durga-rao-ketha-737792284/)
