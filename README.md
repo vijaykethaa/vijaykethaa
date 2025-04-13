@@ -9,14 +9,19 @@ In my portfolio, you can find my [projects](https://github.com/vijaykethaa?tab=r
 💡 **My Skills**
 
 Data preparation, quality assurance, and analysis
+
 Dashboard development and reporting
+
 Exploratory data analysis
 
 🛠️ **My Tools**
 
 Databases: SQL (MySQL, PostgreSQL)
+
 Visualisation: Power BI
+
 Excel
+
 Python: Pandas
 
 🙌🏻 **Connect with Me**
