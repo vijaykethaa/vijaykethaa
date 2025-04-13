@@ -1,6 +1,6 @@
 **Introducing Myself** 🙋🏻‍♀️
 
-Hi there! I'm Vijaya Durga Rao, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, and Python ever since.
+- Hi there! I'm Vijaya Durga Rao, a self-taught data analyst. I transitioned to data and have been teaching myself Excel, SQL, Power BI, and Python ever since.
 
 📚 **Projects & Guides** 📚
 
